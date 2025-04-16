@@ -47,7 +47,7 @@ body{
     font-style: bold;
 }
 .menu-icon {
-    color: rgba(0, 0, 0, 0.527);
+    color: rgba(255, 255, 255, 0.527);
     display: none;
     font-size: 24px;
     cursor: pointer;
@@ -64,7 +64,7 @@ body{
     .nav {
         display: none;
         flex-direction: column;
-        background-color: #ffffff;
+        background-color: #414141;
         position: absolute;
         top: 40px; /* علشان نبعد القائمة عن الهدر */
         right: 0;
